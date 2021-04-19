@@ -1,0 +1,7 @@
+Avg inc. for Females: $28646.32
+Avg inc. for Males: $27225.83
+Number of females with a mortgage and savings account: 71 
+Number of males with both a car and one child in a INNER_CITY location: 15 
+Number of males with both a car and one child in a RURAL location: 9 
+Number of males with both a car and one child in a SUBURBAN location: 3 
+Number of males with both a car and one child in a TOWN location: 7 
